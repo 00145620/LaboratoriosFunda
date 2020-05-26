@@ -17,7 +17,7 @@ int main(){
                 cout<<"el numero es impar"<<endl;
             }
         }else{
-            cout<<"Ingresaste el numero 0";
+            cout<<"Ingresaste el numero cero";
         }
  
     }

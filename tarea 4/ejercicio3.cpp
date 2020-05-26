@@ -14,7 +14,7 @@ int main(){
         cout<< x <<" es "<< respuesta;
 
     }else{
-        cout<<"El numero ingresado es 0";
+        cout<<"El numero ingresado es cero";
     }
     
     return 0;
