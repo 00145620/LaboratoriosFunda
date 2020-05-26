@@ -14,9 +14,9 @@ int main(){
   final = longitud - 1;
 
   if (palabra[0] == palabra[final])
-        cout << "Son iguales" << endl;
+        cout << "La palabra ingresada inicia y finaliza con la misma letra." << endl;
     else
-        cout << "Son distintas" << endl;
+        cout << "La palabra ingresada inicia y finaliza con letras distintas." << endl;
 
   return 0;
 
