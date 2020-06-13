@@ -2,7 +2,6 @@
  
 using namespace std;
 
-int SalarioReal(int salario); 
 
 int main(){
   char Nombre[10], Apellido[10]; 
